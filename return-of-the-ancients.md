@@ -25,7 +25,6 @@ PLEASE ENSURE YOU INSTALL ALL DEPENDENCIES FIRST:
 - [Nautilus](https://www.nexusmods.com/subnautica/mods/1262)
 - [Architects' Library](architects-library.md)
 - [ECC Library](https://www.nexusmods.com/subnautica/mods/1457)
-- [Epic Structure Loader](https://www.nexusmods.com/subnautica/mods/1666)
 
 ### Installation (Manual)
 

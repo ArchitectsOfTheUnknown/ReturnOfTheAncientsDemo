@@ -6,6 +6,8 @@ required features that are required for Return of the Ancients and other mods to
 This mod also features new resources which is used in advanced crafting and buildable alien technology. There is quite a
 lot to explore. Keep in mind this content is currently only accessible in survival with Return of the Ancients.
 
+![Architect's Library Alien Fabricator](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/raw/main/Images/ALScreenshot1.png)
+
 ## Installation
 
 PLEASE ENSURE YOU INSTALL ALL DEPENDENCIES FIRST:
@@ -26,3 +28,11 @@ PLEASE ENSURE YOU INSTALL ALL DEPENDENCIES FIRST:
 You can use the [Mod Manager](https://www.nexusmods.com/subnautica/mods/1168) to automatically install mods. If you
 decide to use it, simply place the downloaded file into the ModDownloads folder and press Install in the in-game mod
 menu.
+
+![Morganite](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/raw/main/Images/ALScreenshot2.png)
+
+![Red Beryl](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/raw/main/Images/ALScreenshot3.png)
+
+![Precursor Base Pieces](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/raw/main/Images/ALScreenshot4.png)
+
+![Custom Precursor Base](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/raw/main/Images/ALScreenshot5.png)

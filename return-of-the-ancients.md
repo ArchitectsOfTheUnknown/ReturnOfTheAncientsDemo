@@ -1,6 +1,6 @@
 # RETURN OF THE ANCIENTS
 
-### DEMO BUILD - NO STORY CONTENT
+### ⚠️ DEMO BUILD - NO STORY CONTENT
 
 This is the official demo release of Return of the Ancients, a large content mod centered around the Gargantuan
 Leviathan. If you do not wish to be spoiled for the final version of RotA, then proceed with caution. This mod has

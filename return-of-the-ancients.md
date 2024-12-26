@@ -16,7 +16,7 @@ The demo build is similar to the content creator build, though with extra polish
 accessible in survival mode. This means that most story locations, events, voice lines, etc. are excluded. Those will
 only be present in the final release.
 
-▖┗▚ ┅┏┫ ┗▚▖▙┅ ┣┏ ▙▞▚— are you ready to die?
+*▖┗▚ ┅┏┫ ┗▚▖▙┅ ┣┏ ▙▞▚— are you ready to die?*
 
 ## Installation
 

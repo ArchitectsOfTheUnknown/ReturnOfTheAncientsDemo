@@ -32,7 +32,7 @@ PLEASE ENSURE YOU INSTALL ALL DEPENDENCIES FIRST:
 
 1. If you haven’t done so already, download and install the [Subnautica BepInEx Pack](https://www.nexusmods.com/subnautica/mods/1108) and all other dependencies.
 2. Download the latest version of this mod.
-3. Open the zip file, copy the "plugins" folder within, and paste it into the plugins folder.
+3. Open the zip file, copy the "plugins" folder within, and paste it into the BepInEx folder.
 4. Alternatively, just extract the zip contents into your BepInEx folder. If done correctly, the ReturnOfTheAncients
    folder should be situated directly inside of the 'plugins' folder.
 

@@ -6,6 +6,9 @@ to obtain the proper gameplay experience.
 ### ⚠️️ All existing work-in-progress story content has been excluded from this public release!
 
 # Required mods:
+---
 
-- [Architects' Library](architects-library.md)
-- [Return of the Ancients](return-of-the-ancients.md)
+# [Architects' Library](architects-library.md)
+# [Return of the Ancients](return-of-the-ancients.md)
+
+![Return of the Ancients](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/raw/main/Images/RotA-Demo-Thumbnail.png)

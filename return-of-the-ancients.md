@@ -20,7 +20,7 @@ only be present in the final release.
 
 # Installation
 
-## Mod download link: [PLACEHOLDER.zip](https://youtu.be/dQw4w9WgXcQ)
+## Mod download link: [ReturnOfTheAncientsDemo.zip](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/releases/download/RotA-demo/ReturnOfTheAncientsDemo.zip)
 
 PLEASE ENSURE YOU INSTALL ALL DEPENDENCIES FIRST:
 

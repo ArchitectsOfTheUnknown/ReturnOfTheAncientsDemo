@@ -8,7 +8,9 @@ lot to explore. Keep in mind this content is currently only accessible in surviv
 
 ![Architect's Library Alien Fabricator](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/raw/main/Images/ALScreenshot1.png)
 
-## Installation
+# Installation
+
+## Mod download link: [ArchitectsLibraryDemo.zip](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/releases/download/AL-0.0.1/ArchitectsLibraryDemo.zip)
 
 PLEASE ENSURE YOU INSTALL ALL DEPENDENCIES FIRST:
 

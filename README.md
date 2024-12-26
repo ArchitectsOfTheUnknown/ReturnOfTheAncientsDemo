@@ -7,5 +7,5 @@ to obtain the proper gameplay experience.
 
 # Required mods:
 
-- [Architect's Library](architects-library.md)
+- [Architects' Library](architects-library.md)
 - [Return of the Ancients](return-of-the-ancients.md)

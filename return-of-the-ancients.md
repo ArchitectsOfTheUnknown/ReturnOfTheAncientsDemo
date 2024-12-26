@@ -18,7 +18,9 @@ only be present in the final release.
 
 *▖┗▚ ┅┏┫ ┗▚▖▙┅ ┣┏ ▙▞▚— are you ready to die?*
 
-## Installation
+# Installation
+
+## Mod download link: [PLACEHOLDER.zip](https://youtu.be/dQw4w9WgXcQ)
 
 PLEASE ENSURE YOU INSTALL ALL DEPENDENCIES FIRST:
 

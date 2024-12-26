@@ -1,4 +1,4 @@
-# ARCHITECTS' LIBRARY
+# ┏ ARCHITECTS' LIBRARY ▚
 
 Architects' Library is a modding library for Subnautica developd by Architects of the Unknown. This mod adds all the
 required features that are required for Return of the Ancients and other mods to work properly.

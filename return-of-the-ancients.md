@@ -46,7 +46,7 @@ menu.
 
 ![RotA Screenshot](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/raw/main/Images/GargScreenshot3.jpg)
 
-![RotA Screenshot](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/raw/main/Images/BaseScreenshot)
+![RotA Screenshot](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/raw/main/Images/BaseScreenshot.png)
 
 ![RotA Screenshot](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/raw/main/Images/GargScreenshot4.png)
 

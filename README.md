@@ -10,3 +10,5 @@ to obtain the proper gameplay experience.
 
 # [Architects' Library](architects-library.md)
 # [Return of the Ancients](return-of-the-ancients.md)
+
+![Return of the Ancients](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/raw/main/Images/RotA-Demo-Thumbnail.png)

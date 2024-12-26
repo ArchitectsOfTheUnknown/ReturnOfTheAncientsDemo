@@ -1,6 +1,6 @@
-# ARCHITECT'S LIBRARY
+# ARCHITECTS' LIBRARY
 
-Architects Library is a modding library for Subnautica developd by Architects of the Unknown. This mod adds all the
+Architects' Library is a modding library for Subnautica developd by Architects of the Unknown. This mod adds all the
 required features that are required for Return of the Ancients and other mods to work properly.
 
 This mod also features new resources which is used in advanced crafting and buildable alien technology. There is quite a
@@ -11,7 +11,6 @@ lot to explore. Keep in mind this content is currently only accessible in surviv
 PLEASE ENSURE YOU INSTALL ALL DEPENDENCIES FIRST:
 
 - [Nautilus](https://www.nexusmods.com/subnautica/mods/1262)
-- [ECC Library](https://www.nexusmods.com/subnautica/mods/1457)
 
 ### Installation (Manual)
 

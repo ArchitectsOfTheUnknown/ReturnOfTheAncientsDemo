@@ -1,4 +1,4 @@
-# SUBNAUTICA: RETURN OF THE ANCIENTS DEMO
+# Subnautica: Return of the Ancients DEMO
 
 ### ⚠️ DEMO BUILD - NO STORY CONTENT
 

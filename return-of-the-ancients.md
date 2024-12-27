@@ -55,3 +55,20 @@ menu.
 ![RotA Screenshot](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/raw/main/Images/GargScreenshot5.png)
 
 ![RotA Screenshot](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/raw/main/Images/GargScreenshot6.png)
+
+### Credits
+
+- Metious
+- Al-An
+- Lee23
+- N8Crafter
+- Slendy
+- Hipnox
+- Fossil Curd
+- Thomas Sarnari
+- MrPp
+- MrPurple
+- nocontextlilly
+- Holograms
+- Dreamanchik
+- Simon

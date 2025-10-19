@@ -20,7 +20,7 @@ only be present in the final release.
 
 # Installation
 
-## Mod download link: [ReturnOfTheAncientsDemo.zip](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/releases/download/RotA-demo-0.0.2/ReturnOfTheAncientsDemo.zip)
+## Mod download link: [ReturnOfTheAncientsDemo-0.0.2.zip](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/releases/download/RotA-demo-0.0.2/ReturnOfTheAncientsDemo-0.0.2.zip)
 
 PLEASE ENSURE YOU INSTALL ALL DEPENDENCIES FIRST:
 

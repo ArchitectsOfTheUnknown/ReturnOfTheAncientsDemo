@@ -60,7 +60,7 @@ menu.
 
 - Metious
 - Al-An
-- Lee23
+- Kallie23
 - N8Crafter
 - Slendy
 - Hipnox
@@ -68,7 +68,7 @@ menu.
 - Thomas Sarnari
 - MrPp
 - MrPurple
-- nocontextlilly
+- Nocontextcass
 - Holograms
 - Dreamanchik
 - Simon
